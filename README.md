@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ This program will draw sin, cos, and tan curve for a range of -360 to 360 degrees
 
 ## GRACE DAYS
 Grace days used for this assignment: 1
@@ -16,7 +16,7 @@ Grace days used for this assignment: 1
 Grace days remaining: 4/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
  https://docs.python.org/3/library/turtle.html
